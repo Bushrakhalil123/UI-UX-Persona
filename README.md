@@ -15,3 +15,6 @@ Use Case: This project is useful for UX/UI designers, product managers, and deve
 
 # Figma: For designing the visual persona.
 # Survey Analysis: For extracting insights to build the persona.
+
+# figma file
+https://www.figma.com/design/2ZcFs4HIXOXIX44Ky90npn/Persona?node-id=0-1&t=d3PvBmmoY6ahhZED-1
